@@ -1,0 +1,534 @@
+
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Widlore Mérancourt, Samantha Schmidt",
+      "title": "As gangs attack a critical port, 'Haiti will go hungry soon' - The Washington Post",
+      "description": "Gangs have cut off the capital from one of its last remaining lifelines for food and supplies.",
+      "url": "https://www.washingtonpost.com/world/2024/03/07/haiti-gangs-port/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CC4XU2OTCWZKRTGOUAEHQPXPAQ.JPG&w=1440",
+      "publishedAt": "2024-03-08T02:08:00Z",
+      "content": "PORT-AU-PRINCE, Haiti First the gangs blocked the roads to Haitis capital. Then they attacked the airport. Now they have breached the citys main port, cutting off the capital from one of its last rem… [+6087 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "SAMY MAGDY, ABBY SEWELL, AAMER MADHANI, ELLEN KNICKMEYER",
+      "title": "Israel-Hamas war: Biden to announce aid port on Gaza's coast - The Associated Press",
+      "description": "Senior U.S. officials say the U.S. military will deploy to set up a temporary port off the coast of Gaza. President Joe Biden was making the announcement at his State of the Union address Thursday. The senior officials spoke on condition of anonymity to previ…",
+      "url": "https://apnews.com/article/israel-hamas-war-news-03-07-24-5657eedc005040694a9ab935ce3e39e5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/edb2aa4/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F5d%2Fe53686c2a35255037ccd3ad02e93%2Fdb4733cc79154e33bb5cb0d618e74a93",
+      "publishedAt": "2024-03-08T01:52:30Z",
+      "content": "WASHINGTON (AP) The U.S. military will deploy to set up a temporary port off the coast of Gaza, the Biden administration said Thursday, joining in an international push to open a sea route delivering… [+8454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "New Yorkers lukewarm on National Guard deployment to deter subway crime - BBC.com",
+      "description": "Some commuters told the BBC it was a good idea. Others expressed concern it might lead to profiling.",
+      "url": "https://www.bbc.com/news/world-us-canada-68508331",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA42/production/_132866046_gettyimages-2059246986.jpg",
+      "publishedAt": "2024-03-08T01:28:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Erin Keller",
+      "title": "‘Sister Wives’ star Garrison Brown ‘wonderful’ but depressed, having relationship issues before tragic death, roommate says - New York Post ",
+      "description": "The reality star lived with three roommates in a Flagstaff, Arizona, apartment.",
+      "url": "https://nypost.com/2024/03/07/entertainment/sister-wives-star-garrison-brown-wonderful-but-depressed-having-relationship-issues-before-tragic-death-roommate-says/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/77896421.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-03-08T01:10:00Z",
+      "content": "One of “Sister Wives” star Garrison Browns three roommates has broken their silence on the reality star’s apparent suicide.\r\nAll I have to say is that he was a wonderful person with nothing but posit… [+2728 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Oren Liebermann",
+      "title": "US Army intelligence analyst charged with leaking classified info to China in exchange for $42K - CNN",
+      "description": "A US Army sergeant has been charged with leaking classified information to China in exchange for $42,000 after prosecutors said he repeatedly sent sensitive documents about some of the military’s most advanced weapons to a foreign national claiming to live in…",
+      "url": "https://www.cnn.com/2024/03/07/politics/us-army-sergeant-charged-leaking-classified-info-china/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23239555821512.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-08T00:33:00Z",
+      "content": "A US Army sergeant has been charged with leaking classified information to China in exchange for $42,000 after prosecutors said he repeatedly sent sensitive documents about some of the militarys most… [+3346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Miami Herald"
+      },
+      "author": "Miami Herald",
+      "title": "Exclusive: White House warns Haiti force can’t deploy until Republicans release funds - Miami Herald",
+      "description": null,
+      "url": "https://www.miamiherald.com/news/politics-government/article286395655.html",
+      "urlToImage": null,
+      "publishedAt": "2024-03-08T00:28:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kaanita Iyer, Clare Foran",
+      "title": "Katie Britt, youngest ever GOP woman elected to the US Senate, to deliver party’s response to Biden’s State of the Union - CNN",
+      "description": "Alabama Sen. Katie Britt, the youngest Republican woman elected to the US Senate, is set Thursday to deliver the GOP’s response to President Joe Biden’s State of the Union address as the party looks to undercut the president’s legislative record and his attem…",
+      "url": "https://www.cnn.com/2024/03/07/politics/katie-britt-republican-response-sotu/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2043551800.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-03-07T23:50:00Z",
+      "content": "Alabama Sen. Katie Britt, the youngest Republican woman elected to the US Senate, is set to deliver the GOPs response to President Joe Bidens State of the Union address late Thursday night as the par… [+3436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": null,
+      "title": "Tire falls off United flight after takeoff from San Francisco; diverted plane lands safely at LAX - KABC-TV",
+      "description": "A tire fell off a United Airlines flight taking off from San Francisco International Airport, bound for Japan. The diverted plane landed safely at LAX.",
+      "url": "https://abc7.com/united-tire-plane-san-francisco-airport-lax/14500909/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14501066_plane-tire-falling-off-clean-TN-img.jpg?w=1600",
+      "publishedAt": "2024-03-07T23:37:30Z",
+      "content": "LOS ANGELES (KABC) -- A tire fell off a United Airlines flight after it took off from San Francisco International Airport on Thursday, initially bound for Japan. The diverted plane later landed safel… [+2836 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Gaza ceasefire talks show no sign of progress, US says onus on Hamas - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/world/middle-east/hamas-delegation-leaves-cairo-with-ceasefire-talks-ongoing-until-agreement-2024-03-07/",
+      "urlToImage": null,
+      "publishedAt": "2024-03-07T23:10:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "‘Terrible tragedy’: Canada rocked by mass killing of Sri Lankan family - Al Jazeera English",
+      "description": "The victims of a rare Ottawa attack included four children and two adults. A 19-year-old acquaintance was arrested.",
+      "url": "https://www.aljazeera.com/news/2024/3/7/terrible-tragedy-canada-rocked-by-mass-killing-of-sri-lankan-family",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-07T164543Z_978283975_RC24H6AW2E9Z_RTRMADP_3_CANADA-OTTAWA-CASUALTIES-1709843136.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-07T22:41:35Z",
+      "content": "Canadian Prime Minister Justin Trudeau has condemned the mass killing of an Ottawa family that had recently moved from Sri Lanka, calling it an act of terrible violence.\r\nTrudeaus comments on Thursda… [+3299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kevin Breuninger, Dan Mangan",
+      "title": "Trump loses bid to delay $83.3 million E. Jean Carroll judgment - CNBC",
+      "description": "Donald Trump had asked Manhattan federal Judge Lewis Kaplan to delay the judgment from taking effect until after he rules on post-trial motions in the case.",
+      "url": "https://www.cnbc.com/2024/03/07/trump-loses-bid-to-delay-83point3-million-e-jean-carroll-judgment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107381485-1709418517504-gettyimages-2053661792-109a0567_nlhvulji.jpeg?v=1709418539&w=1920&h=1080",
+      "publishedAt": "2024-03-07T22:14:21Z",
+      "content": "Donald Trump on Thursday lost a bid to delay paying an $83.3 million civil defamation judgment to writer E. Jean Carroll.\r\nThe denial of Trump's request by Manhattan federal court Judge Lewis Kaplan … [+2412 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'Kane",
+      "title": "Rivian surprise announces the R3 hatchback, and it’s cute as hell - TechCrunch",
+      "description": "The EV startup teased an EV hatchback that is coming in a few years, at the event that was supposed to be all about its larger R2 SUV.",
+      "url": "https://techcrunch.com/2024/03/07/rivian-r3-hatchback-ev-specs-preorder-info/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/rivian-r3-hatchback.jpg?resize=1200,674",
+      "publishedAt": "2024-03-07T22:04:11Z",
+      "content": "Rivian just surprise-announced an all-electric hatchback called the R3 — giving the company a big Apple-esque “one more thing” announcement at the event that was ostensibly supposed to be all about i… [+2132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "New M3 MacBook Air Models to Have Day-One macOS Update - MacRumors",
+      "description": "The new MacBook Air models that are set to be released tomorrow will have a day-one update, according to MacRumors contributor Aaron Perris.   Both...",
+      "url": "https://www.macrumors.com/2024/03/07/macbook-air-day-one-macos-update/",
+      "urlToImage": "https://images.macrumors.com/t/OpivTNFk5tiPViS0crXqhRqIQt8=/1607x/article-new/2024/02/macbook-air-blue-image.jpg",
+      "publishedAt": "2024-03-07T21:16:03Z",
+      "content": "The new MacBook Air models that are set to be released tomorrow will have a day-one update, according to MacRumors contributor Aaron Perris.\r\nBoth the 13.6-inch and 15.3-inch ‌MacBook Air‌ models tha… [+667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "2024 NFL free agency matchmaker for each AFC team: Ravens add power with Josh Jacobs, Bills get new WR weapon - CBS Sports",
+      "description": "Pairing the ideal AFC team with one of the top free agents",
+      "url": "https://www.cbssports.com/nfl/news/2024-nfl-free-agency-matchmaker-for-each-afc-team-ravens-add-power-with-josh-jacobs-bills-get-new-wr-weapon/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/07/7d2a701b-405b-4d51-81d2-e924af551661/thumbnail/1200x675/5cd7b20c236623b950c5966f4c1f2c3b/josh-jacobs-g.jpg",
+      "publishedAt": "2024-03-07T20:54:00Z",
+      "content": "We are now mere days away from the start of the new NFL league year. Teams are preparing themselves by making cap-saving moves, gearing up for the free agency period that will begin in earnest next w… [+5618 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Daniella Genovese",
+      "title": "Cinnamon products sold at Dollar Tree, Family Dollar have elevated lead levels, FDA says - Fox Business",
+      "description": "The Food and Drug Administration is warning consumers to avoid more cinnamon products that have elevated levels of lead and could be harmful to a person over a prolonged period.",
+      "url": "https://www.foxbusiness.com/lifestyle/cinnamon-products-sold-dollar-tree-family-dollar-have-elevated-lead-levels-fda-says",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Ground-cinnamon.jpg?ve=1&tl=1",
+      "publishedAt": "2024-03-07T20:42:00Z",
+      "content": "The Food and Drug Administration (FDA) is warning consumers to avoid several ground cinnamon products that have elevated levels of lead.\r\nWhile the products don't pose the same risk as the recalled a… [+3321 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Elizabeth Weise",
+      "title": "Microplastics found in human arteries, linked with death risk increase - USA TODAY",
+      "description": "Previous studies have shown that microplastic and nanoplastic particles can induce inflammation and other negative effects in the body.",
+      "url": "https://www.usatoday.com/story/news/health/2024/03/07/microplastics-found-in-human-arteries-linked-with-death-risk-increase/72877351007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/07/USAT/72887632007-ap-plastics-health-questions.jpg?crop=7951,4473,x0,y265&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2024-03-07T20:38:42Z",
+      "content": "Microplastics are everywhere  even in the fatty deposits called plaque that can build up in the arteries and cause heart disease and strokes.\r\nNow researchers in Italy have found that in people with … [+3573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "POST-COMBINE NFL MOCK DRAFT: Malik Nabers off the board BEFORE Marvin Harrison Jr. | CBS Sports - CBS Sports",
+      "description": "Ryan Wilson and Pete Prisco do a first round Mock Draft after the NFL Combine. SUBSCRIBE TO OUR CHANNEL:https://www.youtube.com/user/CBSSportsWATCHCBS Sports...",
+      "url": "https://www.youtube.com/watch?v=EfFVPFZflss",
+      "urlToImage": "https://i.ytimg.com/vi/EfFVPFZflss/maxresdefault.jpg",
+      "publishedAt": "2024-03-07T20:30:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Powell says the Fed is 'not far' from the point of cutting interest rates - CNBC",
+      "description": "Powell on Thursday indicated that interest rate cuts may not be too far off, if inflation signals cooperate.",
+      "url": "https://www.cnbc.com/2024/03/07/powell-says-fed-is-not-far-from-the-point-of-cutting-interest-rates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107384081-1709831185690-gettyimages-2058827167-powell_banking_402_030724.jpeg?v=1709831224&w=1920&h=1080",
+      "publishedAt": "2024-03-07T20:23:52Z",
+      "content": "Federal Reserve Chair Jerome Powell on Thursday indicated that interest rate cuts may not be too far off if inflation signals cooperate.\r\nIn remarks to the Senate Banking Committee, the central bank … [+1352 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Nicki Cox",
+      "title": "Travis Kelce arrives in Singapore for Taylor Swift's Eras Tour - Page Six",
+      "description": "The Kansas City Chiefs tight end brought several of his close friends with him to watch the “Cruel Summer” singer take the stage in Singapore this weekend.",
+      "url": "https://pagesix.com/2024/03/07/entertainment/travis-kelce-arrives-in-singapore-for-taylor-swifts-eras-tour/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/03/77872918.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-03-07T20:14:00Z",
+      "content": "Travis Kelce has touched down in Singapore.\r\nThe Kansas City Chiefs tight end, 34, arrived alongside several of his friends ahead of his girlfriend Taylor Swift’s final two Eras Tour shows in Asia.\r\n… [+4078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Sweden formally joins Nato military alliance - BBC.com",
+      "description": "Sweden joins Nato, becoming the military alliance's second new member since Russia's full-scale invasion of Ukraine.",
+      "url": "https://www.bbc.com/news/world-europe-68506223",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/755E/production/_132864003_ce35c3580748f4946196366f6499f80b709520650_0_8256_55041000x667.jpg",
+      "publishedAt": "2024-03-07T19:58:53Z",
+      "content": null
+    }
+  ]
+}
+
+
+
+articles:[
+        {
+          "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+          },
+          "author": "Widlore Mérancourt, Samantha Schmidt",
+          "title": "As gangs attack a critical port, 'Haiti will go hungry soon' - The Washington Post",
+          "description": "Gangs have cut off the capital from one of its last remaining lifelines for food and supplies.",
+          "url": "https://www.washingtonpost.com/world/2024/03/07/haiti-gangs-port/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CC4XU2OTCWZKRTGOUAEHQPXPAQ.JPG&w=1440",
+          "publishedAt": "2024-03-08T02:08:00Z",
+          "content": "PORT-AU-PRINCE, Haiti First the gangs blocked the roads to Haitis capital. Then they attacked the airport. Now they have breached the citys main port, cutting off the capital from one of its last rem… [+6087 chars]"
+        },
+        {
+          "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+          },
+          "author": "SAMY MAGDY, ABBY SEWELL, AAMER MADHANI, ELLEN KNICKMEYER",
+          "title": "Israel-Hamas war: Biden to announce aid port on Gaza's coast - The Associated Press",
+          "description": "Senior U.S. officials say the U.S. military will deploy to set up a temporary port off the coast of Gaza. President Joe Biden was making the announcement at his State of the Union address Thursday. The senior officials spoke on condition of anonymity to previ…",
+          "url": "https://apnews.com/article/israel-hamas-war-news-03-07-24-5657eedc005040694a9ab935ce3e39e5",
+          "urlToImage": "https://dims.apnews.com/dims4/default/edb2aa4/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F5d%2Fe53686c2a35255037ccd3ad02e93%2Fdb4733cc79154e33bb5cb0d618e74a93",
+          "publishedAt": "2024-03-08T01:52:30Z",
+          "content": "WASHINGTON (AP) The U.S. military will deploy to set up a temporary port off the coast of Gaza, the Biden administration said Thursday, joining in an international push to open a sea route delivering… [+8454 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BBC News"
+          },
+          "author": null,
+          "title": "New Yorkers lukewarm on National Guard deployment to deter subway crime - BBC.com",
+          "description": "Some commuters told the BBC it was a good idea. Others expressed concern it might lead to profiling.",
+          "url": "https://www.bbc.com/news/world-us-canada-68508331",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA42/production/_132866046_gettyimages-2059246986.jpg",
+          "publishedAt": "2024-03-08T01:28:48Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "New York Post"
+          },
+          "author": "Erin Keller",
+          "title": "‘Sister Wives’ star Garrison Brown ‘wonderful’ but depressed, having relationship issues before tragic death, roommate says - New York Post ",
+          "description": "The reality star lived with three roommates in a Flagstaff, Arizona, apartment.",
+          "url": "https://nypost.com/2024/03/07/entertainment/sister-wives-star-garrison-brown-wonderful-but-depressed-having-relationship-issues-before-tragic-death-roommate-says/",
+          "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/77896421.jpg?quality=75&strip=all&w=1024",
+          "publishedAt": "2024-03-08T01:10:00Z",
+          "content": "One of “Sister Wives” star Garrison Browns three roommates has broken their silence on the reality star’s apparent suicide.\r\nAll I have to say is that he was a wonderful person with nothing but posit… [+2728 chars]"
+        },
+        {
+          "source": {   
+            "id": "cnn",
+            "name": "CNN"
+          },
+          "author": "Oren Liebermann",
+          "title": "US Army intelligence analyst charged with leaking classified info to China in exchange for $42K - CNN",
+          "description": "A US Army sergeant has been charged with leaking classified information to China in exchange for $42,000 after prosecutors said he repeatedly sent sensitive documents about some of the military’s most advanced weapons to a foreign national claiming to live in…",
+          "url": "https://www.cnn.com/2024/03/07/politics/us-army-sergeant-charged-leaking-classified-info-china/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23239555821512.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2024-03-08T00:33:00Z",
+          "content": "A US Army sergeant has been charged with leaking classified information to China in exchange for $42,000 after prosecutors said he repeatedly sent sensitive documents about some of the militarys most… [+3346 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Miami Herald"
+          },
+          "author": "Miami Herald",
+          "title": "Exclusive: White House warns Haiti force can’t deploy until Republicans release funds - Miami Herald",
+          "description": null,
+          "url": "https://www.miamiherald.com/news/politics-government/article286395655.html",
+          "urlToImage": null,
+          "publishedAt": "2024-03-08T00:28:00Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": "cnn",
+            "name": "CNN"
+          },
+          "author": "Kaanita Iyer, Clare Foran",
+          "title": "Katie Britt, youngest ever GOP woman elected to the US Senate, to deliver party’s response to Biden’s State of the Union - CNN",
+          "description": "Alabama Sen. Katie Britt, the youngest Republican woman elected to the US Senate, is set Thursday to deliver the GOP’s response to President Joe Biden’s State of the Union address as the party looks to undercut the president’s legislative record and his attem…",
+          "url": "https://www.cnn.com/2024/03/07/politics/katie-britt-republican-response-sotu/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2043551800.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2024-03-07T23:50:00Z",
+          "content": "Alabama Sen. Katie Britt, the youngest Republican woman elected to the US Senate, is set to deliver the GOPs response to President Joe Bidens State of the Union address late Thursday night as the par… [+3436 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "KABC-TV"
+          },
+          "author": null,
+          "title": "Tire falls off United flight after takeoff from San Francisco; diverted plane lands safely at LAX - KABC-TV",
+          "description": "A tire fell off a United Airlines flight taking off from San Francisco International Airport, bound for Japan. The diverted plane landed safely at LAX.",
+          "url": "https://abc7.com/united-tire-plane-san-francisco-airport-lax/14500909/",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/14501066_plane-tire-falling-off-clean-TN-img.jpg?w=1600",
+          "publishedAt": "2024-03-07T23:37:30Z",
+          "content": "LOS ANGELES (KABC) -- A tire fell off a United Airlines flight after it took off from San Francisco International Airport on Thursday, initially bound for Japan. The diverted plane later landed safel… [+2836 chars]"
+        },
+        {
+          "source": {
+            "id": "reuters",
+            "name": "Reuters"
+          },
+          "author": "Reuters",
+          "title": "Gaza ceasefire talks show no sign of progress, US says onus on Hamas - Reuters",
+          "description": null,
+          "url": "https://www.reuters.com/world/middle-east/hamas-delegation-leaves-cairo-with-ceasefire-talks-ongoing-until-agreement-2024-03-07/",
+          "urlToImage": null,
+          "publishedAt": "2024-03-07T23:10:00Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+          },
+          "author": "Al Jazeera",
+          "title": "‘Terrible tragedy’: Canada rocked by mass killing of Sri Lankan family - Al Jazeera English",
+          "description": "The victims of a rare Ottawa attack included four children and two adults. A 19-year-old acquaintance was arrested.",
+          "url": "https://www.aljazeera.com/news/2024/3/7/terrible-tragedy-canada-rocked-by-mass-killing-of-sri-lankan-family",
+          "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-07T164543Z_978283975_RC24H6AW2E9Z_RTRMADP_3_CANADA-OTTAWA-CASUALTIES-1709843136.jpg?resize=1920%2C1440",
+          "publishedAt": "2024-03-07T22:41:35Z",
+          "content": "Canadian Prime Minister Justin Trudeau has condemned the mass killing of an Ottawa family that had recently moved from Sri Lanka, calling it an act of terrible violence.\r\nTrudeaus comments on Thursda… [+3299 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNBC"
+          },
+          "author": "Kevin Breuninger, Dan Mangan",
+          "title": "Trump loses bid to delay $83.3 million E. Jean Carroll judgment - CNBC",
+          "description": "Donald Trump had asked Manhattan federal Judge Lewis Kaplan to delay the judgment from taking effect until after he rules on post-trial motions in the case.",
+          "url": "https://www.cnbc.com/2024/03/07/trump-loses-bid-to-delay-83point3-million-e-jean-carroll-judgment.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107381485-1709418517504-gettyimages-2053661792-109a0567_nlhvulji.jpeg?v=1709418539&w=1920&h=1080",
+          "publishedAt": "2024-03-07T22:14:21Z",
+          "content": "Donald Trump on Thursday lost a bid to delay paying an $83.3 million civil defamation judgment to writer E. Jean Carroll.\r\nThe denial of Trump's request by Manhattan federal court Judge Lewis Kaplan … [+2412 chars]"
+        },
+        {
+          "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+          },
+          "author": "Sean O'Kane",
+          "title": "Rivian surprise announces the R3 hatchback, and it’s cute as hell - TechCrunch",
+          "description": "The EV startup teased an EV hatchback that is coming in a few years, at the event that was supposed to be all about its larger R2 SUV.",
+          "url": "https://techcrunch.com/2024/03/07/rivian-r3-hatchback-ev-specs-preorder-info/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/rivian-r3-hatchback.jpg?resize=1200,674",
+          "publishedAt": "2024-03-07T22:04:11Z",
+          "content": "Rivian just surprise-announced an all-electric hatchback called the R3 — giving the company a big Apple-esque “one more thing” announcement at the event that was ostensibly supposed to be all about i… [+2132 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "MacRumors"
+          },
+          "author": "Juli Clover",
+          "title": "New M3 MacBook Air Models to Have Day-One macOS Update - MacRumors",
+          "description": "The new MacBook Air models that are set to be released tomorrow will have a day-one update, according to MacRumors contributor Aaron Perris.   Both...",
+          "url": "https://www.macrumors.com/2024/03/07/macbook-air-day-one-macos-update/",
+          "urlToImage": "https://images.macrumors.com/t/OpivTNFk5tiPViS0crXqhRqIQt8=/1607x/article-new/2024/02/macbook-air-blue-image.jpg",
+          "publishedAt": "2024-03-07T21:16:03Z",
+          "content": "The new MacBook Air models that are set to be released tomorrow will have a day-one update, according to MacRumors contributor Aaron Perris.\r\nBoth the 13.6-inch and 15.3-inch ‌MacBook Air‌ models tha… [+667 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CBS Sports"
+          },
+          "author": "",
+          "title": "2024 NFL free agency matchmaker for each AFC team: Ravens add power with Josh Jacobs, Bills get new WR weapon - CBS Sports",
+          "description": "Pairing the ideal AFC team with one of the top free agents",
+          "url": "https://www.cbssports.com/nfl/news/2024-nfl-free-agency-matchmaker-for-each-afc-team-ravens-add-power-with-josh-jacobs-bills-get-new-wr-weapon/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/03/07/7d2a701b-405b-4d51-81d2-e924af551661/thumbnail/1200x675/5cd7b20c236623b950c5966f4c1f2c3b/josh-jacobs-g.jpg",
+          "publishedAt": "2024-03-07T20:54:00Z",
+          "content": "We are now mere days away from the start of the new NFL league year. Teams are preparing themselves by making cap-saving moves, gearing up for the free agency period that will begin in earnest next w… [+5618 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Fox Business"
+          },
+          "author": "Daniella Genovese",
+          "title": "Cinnamon products sold at Dollar Tree, Family Dollar have elevated lead levels, FDA says - Fox Business",
+          "description": "The Food and Drug Administration is warning consumers to avoid more cinnamon products that have elevated levels of lead and could be harmful to a person over a prolonged period.",
+          "url": "https://www.foxbusiness.com/lifestyle/cinnamon-products-sold-dollar-tree-family-dollar-have-elevated-lead-levels-fda-says",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/Ground-cinnamon.jpg?ve=1&tl=1",
+          "publishedAt": "2024-03-07T20:42:00Z",
+          "content": "The Food and Drug Administration (FDA) is warning consumers to avoid several ground cinnamon products that have elevated levels of lead.\r\nWhile the products don't pose the same risk as the recalled a… [+3321 chars]"
+        },
+        {
+          "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+          },
+          "author": "Elizabeth Weise",
+          "title": "Microplastics found in human arteries, linked with death risk increase - USA TODAY",
+          "description": "Previous studies have shown that microplastic and nanoplastic particles can induce inflammation and other negative effects in the body.",
+          "url": "https://www.usatoday.com/story/news/health/2024/03/07/microplastics-found-in-human-arteries-linked-with-death-risk-increase/72877351007/",
+          "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/07/USAT/72887632007-ap-plastics-health-questions.jpg?crop=7951,4473,x0,y265&width=3200&height=1801&format=pjpg&auto=webp",
+          "publishedAt": "2024-03-07T20:38:42Z",
+          "content": "Microplastics are everywhere  even in the fatty deposits called plaque that can build up in the arteries and cause heart disease and strokes.\r\nNow researchers in Italy have found that in people with … [+3573 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "YouTube"
+          },
+          "author": null,
+          "title": "POST-COMBINE NFL MOCK DRAFT: Malik Nabers off the board BEFORE Marvin Harrison Jr. | CBS Sports - CBS Sports",
+          "description": "Ryan Wilson and Pete Prisco do a first round Mock Draft after the NFL Combine. SUBSCRIBE TO OUR CHANNEL:https://www.youtube.com/user/CBSSportsWATCHCBS Sports...",
+          "url": "https://www.youtube.com/watch?v=EfFVPFZflss",
+          "urlToImage": "https://i.ytimg.com/vi/EfFVPFZflss/maxresdefault.jpg",
+          "publishedAt": "2024-03-07T20:30:21Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNBC"
+          },
+          "author": "Jeff Cox",
+          "title": "Powell says the Fed is 'not far' from the point of cutting interest rates - CNBC",
+          "description": "Powell on Thursday indicated that interest rate cuts may not be too far off, if inflation signals cooperate.",
+          "url": "https://www.cnbc.com/2024/03/07/powell-says-fed-is-not-far-from-the-point-of-cutting-interest-rates.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107384081-1709831185690-gettyimages-2058827167-powell_banking_402_030724.jpeg?v=1709831224&w=1920&h=1080",
+          "publishedAt": "2024-03-07T20:23:52Z",
+          "content": "Federal Reserve Chair Jerome Powell on Thursday indicated that interest rate cuts may not be too far off if inflation signals cooperate.\r\nIn remarks to the Senate Banking Committee, the central bank … [+1352 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Page Six"
+          },
+          "author": "Nicki Cox",
+          "title": "Travis Kelce arrives in Singapore for Taylor Swift's Eras Tour - Page Six",
+          "description": "The Kansas City Chiefs tight end brought several of his close friends with him to watch the “Cruel Summer” singer take the stage in Singapore this weekend.",
+          "url": "https://pagesix.com/2024/03/07/entertainment/travis-kelce-arrives-in-singapore-for-taylor-swifts-eras-tour/",
+          "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/03/77872918.jpg?quality=75&strip=all&w=1024",
+          "publishedAt": "2024-03-07T20:14:00Z",
+          "content": "Travis Kelce has touched down in Singapore.\r\nThe Kansas City Chiefs tight end, 34, arrived alongside several of his friends ahead of his girlfriend Taylor Swift’s final two Eras Tour shows in Asia.\r\n… [+4078 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BBC News"
+          },
+          "author": null,
+          "title": "Sweden formally joins Nato military alliance - BBC.com",
+          "description": "Sweden joins Nato, becoming the military alliance's second new member since Russia's full-scale invasion of Ukraine.",
+          "url": "https://www.bbc.com/news/world-europe-68506223",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/755E/production/_132864003_ce35c3580748f4946196366f6499f80b709520650_0_8256_55041000x667.jpg",
+          "publishedAt": "2024-03-07T19:58:53Z",
+          "content": null
+        }
+      ]
+
+      
